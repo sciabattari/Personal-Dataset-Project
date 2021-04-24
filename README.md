@@ -22,3 +22,7 @@ These visualizations gave me a new perspective on how the salary cap works. It b
 
 ## Analysis
 https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%2011.42.53%20AM.png
+
+https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%201.14.35%20PM.png
+
+
