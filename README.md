@@ -21,3 +21,4 @@ While this visualization was important and there seemed to be a slight trend lin
 These visualizations gave me a new perspective on how the salary cap works. It became clear that teams are prioritizing different things depending on their individual strategies and each strategy would yield a different result. I did find it interesting how the graphs variated between looking at QB% vs Total and Offensive salaries.  They were similar, but it seemed that total was more compact while offensive was more spread out.  This could be due to some teams prioritizing or ignoring defense while keeping similar total numbers. 
 
 ## Analysis
+https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%2011.42.53%20AM.png
