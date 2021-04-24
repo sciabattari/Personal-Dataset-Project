@@ -21,8 +21,7 @@ While this visualization was important and there seemed to be a slight trend lin
 These visualizations gave me a new perspective on how the salary cap works. It became clear that teams are prioritizing different things depending on their individual strategies and each strategy would yield a different result. I did find it interesting how the graphs variated between looking at QB% vs Total and Offensive salaries.  They were similar, but it seemed that total was more compact while offensive was more spread out.  This could be due to some teams prioritizing or ignoring defense while keeping similar total numbers. 
 
 ## Analysis
-
-
+For my analysis I wanted to see how teams would be clustered together and if there were any patterns there with that.  I used kmeans clustering in R to accomplish this and I looked at the clutering of the scatter plots for the 3 visualizaitons I used above. The 3 new figures are shown below and illustrate the different groupings that arise when looking at the datasets. 
 
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%2011.42.53%20AM.png"></td><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%201.14.35%20PM.png"></td><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%201.19.10%20PM.png"></td></tr>
