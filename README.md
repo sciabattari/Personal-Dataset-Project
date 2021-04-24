@@ -11,5 +11,8 @@ I obtained my data from <a href="https://overthecap.com/"> Over the Cap</a> [1],
 As I was adding my data into my dataset, it was clear that many things needed to be cleaned up.  I needed to get rid of all the commas in the numbers to help with the visualization section.  I also wanted to see the total amount spent by each team, and since <a href="https://overthecap.com/"> Over the Cap</a> [1] did not provide that number, I simply added my Offensive Spending and Defensive Spending columns together to get that number.  I also wanted to include percentages of how much the QB salary was related to my new total spendings columns.  I simply divided the two together, then rounded the answer and inserted % to all of them.  This gave me a more clear look at the statistic that started my motivating question in the first place and I found it very helpful. At this point I felt my data was ready to be implemented into RStudio for visualization
 
 ## Visualization
+After I had completed the processing of my data, I took a step back and began to look at how I wanted to go about answering my motivating question.  My initial idea was to just look at how the QB% looked vs. Wins and I came up with this visualization. 
 
+
+I debated between looking at QB% vs. Offensive Spending or QB% vs. Total Spending 
 
