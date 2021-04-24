@@ -12,7 +12,7 @@ As I was adding my data into my dataset, it was clear that many things needed to
 
 ## Visualization
 After I had completed the processing of my data, I took a step back and began to look at how I wanted to go about answering my motivating question.  My initial idea was to just look at how the QB% looked vs. Wins and I came up with this visualization. 
-
+![QB% VS. Wins](https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%2011.42.06%20AM.png)
 
 I debated between looking at QB% vs. Offensive Spending or QB% vs. Total Spending 
 
