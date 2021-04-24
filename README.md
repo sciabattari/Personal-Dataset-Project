@@ -22,4 +22,4 @@ This figure looks at QB% vs. Offensive Players Salaries Spent
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/Senate_MDS.png"></td><td><img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/House_MDS.png"></td></tr>
    <tr><td>US Senate</td><td>US House</td></tr>
-  </table>
+  </table>. 
