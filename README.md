@@ -25,5 +25,5 @@ For my analysis I wanted to see how teams would be clustered together and if the
 
 <table>
   <tr><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%2011.42.53%20AM.png"></td><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%201.14.35%20PM.png"></td><td><img src="https://raw.githubusercontent.com/sciabattari/Personal-Dataset-Project/main/Visualizations/Screen%20Shot%202021-04-24%20at%201.19.10%20PM.png"></td></tr>
-   <tr><td>Clustering of QB% vs. Total Salary</td><td>Clustering of QB% vs. Offensive Salary</td><td>Clustering of Offensive vs. Defensive Salary</td></tr>
+   <tr><td>QB% vs. Total Salary</td><td>QB% vs. Offensive Salary</td><td>Offensive vs. Defensive Salary</td></tr>
   </table>
